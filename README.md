@@ -19,3 +19,13 @@ This project provides a robust solution for energy management in Range-Extended 
 - **Switching Frequency:** 40 kHz.
 - **Bus Targets:** 96V (Traction), 76V (Engine Cranking/Charging).
 - **Software:** MATLAB/Simulink (Discrete solver, 1µs step).
+## Visual Documentation
+**Voltage Waveform**
+![Voltage Waveform](V.jpg)
+**Current Waveform**
+![Current Waveform](C.jpg)
+## ANNEXURES
+**FULL System Schematics**
+![schemactics](ConverterFD.slx)
+**Subsystem Schematics**
+![schemactics](SUbsystem.pdf)
